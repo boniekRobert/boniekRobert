@@ -16,4 +16,4 @@
 Sou curioso e dedicado, com grande interesse em desenvolvimento web.  
 Além do mundo da programação, adoro livros, filmes e séries de ficção científica — sempre buscando novas histórias e ideias para expandir minha criatividade!
 
-> "Quando o mundo estiver unido na busca do conhecimento, e não mais lutando por dinheiro e poder, então nossa sociedade poderá enfim evoluir a um novo nível." <
+> "Quando o mundo estiver unido na busca do conhecimento, e não mais lutando por dinheiro e poder, então nossa sociedade poderá enfim evoluir a um novo nível." 
