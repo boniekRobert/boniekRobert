@@ -7,6 +7,8 @@
 - HTML
 - CSS
 - JavaScript
+- Java
+- Dart
 
 ## 🌟 Projetos em destaque
 - [trilha-html-modulo-3](https://github.com/boniekRobert/trilha-html-modulo-3.git)
