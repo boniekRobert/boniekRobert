@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o boniekRobert
+# 👋 Olá! Eu sou o Robert Boniek
 
 🎓 **Estudante de Análise e Desenvolvimento de Sistemas**  
 🚀 Apaixonado por tecnologia, sempre buscando aprender e evoluir!
