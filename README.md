@@ -11,6 +11,7 @@
 - Dart
 
 ## 🌟 Projetos em destaque
+- [desafio2-felipao-DIO](https://github.com/boniekRobert/desafio2-felipao-DIO)
 - [desafio-felipao-DIO](https://github.com/boniekRobert/desafio-felipao-Dio)
 - [trilha-html-modulo-3](https://github.com/boniekRobert/trilha-html-modulo-3.git)
 - [trilha-html-modulo-1](https://github.com/boniekRobert/trilha-html-modulo-1.git)
