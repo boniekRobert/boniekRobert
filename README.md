@@ -1,9 +1,9 @@
 👋 Olá! Eu sou o Robert Boniek
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
-📍 São Paulo – SP
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)  
+📍 São Paulo – SP  
 
-Atualmente em transição de carreira para a área de tecnologia, com foco em desenvolvimento de software e base sólida em lógica de programação, fundamentos de TI e desenvolvimento web.
+Atualmente em transição de carreira para a área de tecnologia, com foco em desenvolvimento de software e na construção de uma base sólida em lógica de programação, fundamentos de TI e desenvolvimento web.
 
 🛠️ Tecnologias em aprendizado
 - HTML5
@@ -12,14 +12,15 @@ Atualmente em transição de carreira para a área de tecnologia, com foco em de
 - Java
 - Git & GitHub
 
-📂 Projetos
+📂 Projetos  
 Aqui você encontrará projetos acadêmicos e desafios práticos que demonstram minha evolução em lógica, programação e estruturação de aplicações.
+
 - [desafio3-felipao-DIO (JavaScript)](https://github.com/boniekRobert/desafio3-felipao-DIO)
 - [desafio2-felipao-DIO (JavaScript)](https://github.com/boniekRobert/desafio2-felipao-DIO)
 - [trilha-html-modulo-3 (HTML/CSS)](https://github.com/boniekRobert/trilha-html-modulo-3.git)
 
-## 💡 Sobre mim
+💡 Sobre mim  
 Sou curioso e dedicado, com grande interesse em desenvolvimento web.  
-Além do mundo da programação, adoro livros, filmes e séries de ficção científica — sempre buscando novas histórias e ideias para expandir minha criatividade!
+Além do mundo da programação, gosto de livros, filmes e séries de ficção científica, sempre buscando novas ideias e perspectivas.
 
-> "Quando o mundo estiver unido na busca do conhecimento, e não mais lutando por dinheiro e poder, então nossa sociedade poderá enfim evoluir a um novo nível." 
+> "Quando o mundo estiver unido na busca do conhecimento, e não mais lutando por dinheiro e poder, então nossa sociedade poderá evoluir a um novo nível."
