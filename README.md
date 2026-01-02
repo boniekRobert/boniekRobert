@@ -11,11 +11,9 @@
 - Dart
 
 ## 🌟 Projetos em destaque
-- [desafio3-felipao-DIO](https://github.com/boniekRobert/desafio3-felipao-DIO)
-- [desafio2-felipao-DIO](https://github.com/boniekRobert/desafio2-felipao-DIO)
-- [desafio-felipao-DIO](https://github.com/boniekRobert/desafio-felipao-Dio)
-- [trilha-html-modulo-3](https://github.com/boniekRobert/trilha-html-modulo-3.git)
-- [trilha-html-modulo-1](https://github.com/boniekRobert/trilha-html-modulo-1.git)
+- [desafio3-felipao-DIO (JavaScript)](https://github.com/boniekRobert/desafio3-felipao-DIO)
+- [desafio2-felipao-DIO (JavaScript)](https://github.com/boniekRobert/desafio2-felipao-DIO)
+- [trilha-html-modulo-3 (HTML/CSS)](https://github.com/boniekRobert/trilha-html-modulo-3.git)
 
 ## 💡 Sobre mim
 Sou curioso e dedicado, com grande interesse em desenvolvimento web.  
