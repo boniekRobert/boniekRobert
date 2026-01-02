@@ -1,16 +1,19 @@
-# 👋 Olá! Eu sou o Robert Boniek
+👋 Olá! Eu sou o Robert Boniek
 
-🎓 **Estudante de Análise e Desenvolvimento de Sistemas**  
-🚀 Apaixonado por tecnologia, sempre buscando aprender e evoluir!
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
+📍 São Paulo – SP
 
-## 🛠️ Principais Tecnologias
-- HTML
-- CSS
+Atualmente em transição de carreira para a área de tecnologia, com foco em desenvolvimento de software e base sólida em lógica de programação, fundamentos de TI e desenvolvimento web.
+
+🛠️ Tecnologias em aprendizado
+- HTML5
+- CSS3
 - JavaScript
 - Java
-- Dart
+- Git & GitHub
 
-## 🌟 Projetos em destaque
+📂 Projetos
+Aqui você encontrará projetos acadêmicos e desafios práticos que demonstram minha evolução em lógica, programação e estruturação de aplicações.
 - [desafio3-felipao-DIO (JavaScript)](https://github.com/boniekRobert/desafio3-felipao-DIO)
 - [desafio2-felipao-DIO (JavaScript)](https://github.com/boniekRobert/desafio2-felipao-DIO)
 - [trilha-html-modulo-3 (HTML/CSS)](https://github.com/boniekRobert/trilha-html-modulo-3.git)
