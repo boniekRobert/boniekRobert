@@ -21,8 +21,8 @@ Atualmente em transição de carreira para a área de tecnologia, com foco em de
 
 Aqui você encontrará projetos acadêmicos e desafios práticos que demonstram minha evolução em lógica, programação e estruturação de aplicações.
 
-- [desafio3-felipao-DIO](https://github.com/boniekRobert/desafio3-felipao-DIO) (JavaScript) – Classes e lógica orientada a objetos  
-- [desafio2-felipao-DIO](https://github.com/boniekRobert/desafio2-felipao-DIO) (JavaScript) – Funções, condicionais e cálculo de ranking  
+- [HealthProfile-System](https://github.com/boniekRobert/HealthProfile-System) (Java) – Sistema de registros de saúde com POO e cálculo de IMC
+- [desafio3-felipao-DIO](https://github.com/boniekRobert/desafio3-felipao-DIO) (JavaScript) – Classes e lógica orientada a objetos
 - [trilha-html-modulo-3](https://github.com/boniekRobert/trilha-html-modulo-3) (HTML/CSS) – Estruturação de páginas e estilização básica
 
 ---
