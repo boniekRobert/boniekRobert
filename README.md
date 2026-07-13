@@ -12,8 +12,10 @@ Atualmente em transição de carreira para a área de tecnologia, com foco em de
 - HTML5  
 - CSS3  
 - JavaScript  
-- Java  
-- Git & GitHub  
+- Java
+- SQL (MySQL)
+- Git & GitHub
+- Ferramentas: VS Code | IntelliJ
 
 ---
 
