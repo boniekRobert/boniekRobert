@@ -9,10 +9,11 @@ Atualmente em transição de carreira para a área de tecnologia, com foco em de
 
 ## 🛠️ Tecnologias em aprendizado
 
-- HTML5  
-- CSS3  
-- JavaScript  
 - Java
+- Python
+- JavaScript
+- CSS3
+- HTML5  
 - SQL (MySQL)
 - Git & GitHub
 - Ferramentas: VS Code | IntelliJ
